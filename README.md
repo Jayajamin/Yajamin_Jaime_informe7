@@ -269,8 +269,9 @@ R: El devanado primario esta abierto, por lo tanto, el siguiente paso es reempla
 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser, aunque no es de cero. ¿Cuál es la falla más probable?
 
 R: Alguno de los devanados segundarios podrían estar en cortocircuito, o el voltaje primario inferior al esperado.
-VIDEO
 
+VIDEO
+https://youtu.be/RVBTYezOOFw
 
 CONCLUSIONES
 
