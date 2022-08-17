@@ -275,3 +275,9 @@ VIDEO
 CONCLUSIONES
 
 En conclusión La diferencia principal que hay entre el transformador ideal y el real, es que en el transformador ideal no se consideran ningún tipo de perdidas,y en el transformador real se consideran las pérdidas, como las de dispersión,las de las bobinas (cobre) y las del núcleo. teniendo en cuenta que Eltransformador, es un dispositivo que no tiene partes móviles, el cual transfierela energ!a eléctrica de un circuito a otro ba"o el principio de inducciónelectromagnética. La transferencia de energ!a la hace por lo general concambios enlosvalores de olta"es y corrientes lo cual nos indica si eltransformadordonde se tuvo mas claro la relación entre circuitos en serie y circuitos en paralelo donde también se logro identificar los tipos de fuentes con esto podemos concluir que se realizo un buen trabajo con la comprensión de lecturas de libros y lo visto en clase.
+
+Bibliografía
+Varnez, L. (12 de 03 de 2016). FISICALAB. Obtenido de FISICALAB: https://fundacionendesa.org/es/educacion/endesa-educa/recursos/corrientes-alternas-con-un-transformador-electrico
+Oscel Romez. (25 de 05 de 2018. https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+Velema, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
+
