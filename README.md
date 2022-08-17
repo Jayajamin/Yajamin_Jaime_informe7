@@ -20,6 +20,7 @@ MARCO TEORICO
 ![Uploading Tablero en blanco.png…]()
 
 
+SECCIÓN 13–1 El inductor básico
 
 2. Convierta los siguientes valores en microhenries:
 
@@ -50,6 +51,8 @@ a) 300mH\ast1000\mu H=3x{10}^5\ \mu H\
 ![image](https://user-images.githubusercontent.com/106272493/185026395-0b260568-53a9-4c01-a8f7-246a9f10aeba.png)
 ![image](https://user-images.githubusercontent.com/106272493/185026428-46198b4c-84bf-459a-ab93-77a5261971e7.png)
 
+SECCIÓN 13–3 Inductores en serie y en paralelo
+
 12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
 
 B1+ B2 +B3=50
@@ -61,6 +64,9 @@ B3=18 mH   ->•	La inductancia adicional que necesita es de 18.
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/106272493/185026540-5a79dff2-5343-45fe-9f56-8f5d8e31463c.png)
+
+
+SECCIÓN 13–4 Inductores en circuitos de cd
 
 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
 
@@ -97,6 +103,9 @@ Dado que la polaridad del voltaje inducido se opone al cambio de corriente, ento
 
 ![image](https://user-images.githubusercontent.com/106272493/185026961-65112e46-27c5-4b2e-9f57-8dfb51be113c.png)
 
+
+SECCIÓN 13–5 Inductores en circuitos de ca
+
 30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
 
 ![image](https://user-images.githubusercontent.com/106272493/185027048-94886e18-3bf3-45d9-84b4-847c80624af9.png)
@@ -116,13 +125,20 @@ Dado que la polaridad del voltaje inducido se opone al cambio de corriente, ento
 
 ![image](https://user-images.githubusercontent.com/106272493/185027155-4b28c464-d0c2-41c3-b9a4-1c222399211a.png)
 
+
+SECCIÓN 14–1 Inductancia mutua
+
 2. Determine el coeficiente de acoplamiento cuando:
 
 ![image](https://user-images.githubusercontent.com/106272493/185027270-2bc4a755-c566-46db-b976-952a3d390212.png)
 
+SECCIÓN 14–2 El transformador básico
+
 4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
 
 ![image](https://user-images.githubusercontent.com/106272493/185027304-cd738db0-7ea1-4f99-a405-bb3e330cc4d8.png)
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
 
 6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
 
@@ -142,17 +158,23 @@ V_{sec}=n\left(V_{pri}\right)=0.2\left(1200\ V\right)=240\ V
 
 ![image](https://user-images.githubusercontent.com/106272493/185027492-9e1383c2-7c79-4485-bfe9-02480883675e.png)
 
+SECCIÓN 14–4 Carga del devanado secundario
+
 14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
 
 ![image](https://user-images.githubusercontent.com/106272493/185027525-b8036a97-b02a-4837-b0a4-98db25db2dad.png)
 
 ![image](https://user-images.githubusercontent.com/106272493/185027534-879e04f6-3287-41a4-b6be-0be5a1d38292.png)
 
+SECCIÓN 14–5 Carga reflejada
+
 16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
 
 ![image](https://user-images.githubusercontent.com/106272493/185027566-9ed6083e-432b-4ce5-811c-5f3cf582c8d9.png)
 
 Re{v_i}=\left(\frac{1}{n}\right)^2=\left(\frac{1}{n}\right)^2\ast\left(680\right)=\left(\frac{1}{n}\right)\ast\left(680\right)=27,2
+
+SECCIÓN 14–6 Igualación de impedancia
 
 18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
 
@@ -178,6 +200,8 @@ Posición 3
 
 ![image](https://user-images.githubusercontent.com/106272493/185027791-a8e29d15-40f7-476f-80cc-9a32b85fee4a.png)
 
+SECCIÓN 14–7 Características de un transformador no ideal
+
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
 ![image](https://user-images.githubusercontent.com/106272493/185027818-63caade2-4364-4a4a-9e2c-f23b73c25d0c.png)
@@ -195,6 +219,8 @@ B) cual es el valor RL mas pequeño que puede ser excitado?
 C) Cual es el capacitor mas grande que se puede conectar como carga? 
 
 ![image](https://user-images.githubusercontent.com/106272493/185028073-5efef1a8-4597-4511-acbc-e568add6c38d.png)
+
+SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
 
 26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
 a) ¿Cuál es la relación de vueltas si los 120v son de voltaje secundario?
@@ -235,6 +261,7 @@ c) ¿Cuál es la corriente nominal del devanado primario si los 2400v son el vol
 
 
 SECCIÓN 14–9 Localización de fallas 
+
 32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
 
 R: El devanado primario esta abierto, por lo tanto, el siguiente paso es reemplazar el transformador.
